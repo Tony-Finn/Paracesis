@@ -13,5 +13,5 @@ To install on linux:
   sudo python3 paracesis.py
 
 If you have any issues, try running the bash script with the following command: 
-  cd Paracesis
+  cd Paracesis |
   sudo bash fix.sh
