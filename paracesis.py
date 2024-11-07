@@ -19,7 +19,7 @@ while script == True:
     print(" ")
     print(" ")
     # Real menu
-    print("[1] Update system [2] Neofetch Test [3] SSH setup")
+    print("[1] Update system [2] Show device specs [3] SSH setup")
     print("[4] FTP Setup (un-safe) [5] FTP Setup (safe) [6] VNC Setup")
 
     ans = input("Number: ")
